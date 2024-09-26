@@ -25,7 +25,6 @@ for(let i=1; i<=n; i++){
     num= Math.trunc(num)
 
 
- console.log(naipe)
- console.log(num)
+ console.log(naipe + " de " + num)
 
 }
