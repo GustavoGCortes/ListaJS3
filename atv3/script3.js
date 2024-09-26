@@ -18,7 +18,7 @@ for(let i=1; i<=n; i++){
         naipe = "espadas"
     }
 
-    let num = Math.random() * 10
+    let num = Math.random() * 9
     if(num ==0){
         num = 10
     }
